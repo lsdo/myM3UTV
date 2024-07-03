@@ -1,11 +1,3 @@
-#EXTM3U 
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」英雄联盟
-http://live.iill.top/bilibili.php?id=6
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•游戏赛事",「虎牙」英雄联盟 𝟙
-http://live.iill.top/huya.php?id=660000
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•游戏赛事",「虎牙」英雄联盟 𝟚
-http://live.iill.top/huya.php?id=660001
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」英雄联盟 𝟙
-http://live.iill.top/douyu.php?id=288016
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」英雄联盟 𝟚
-http://live.iill.top/douyu.php?id=424559
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/哔哩哔哩.png" group-title="•游戏赛事",CCTV5
+http://www.yao87.com:4022/udp/239.76.246.168:1234

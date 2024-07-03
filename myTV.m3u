@@ -1,3 +1,10 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"EXTM3U
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1
-http://123.14.88.69:8888/hls/16/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/哔哩哔哩.png" group-title="•游戏赛事",「B站」英雄联盟
+http://live.iill.top/bilibili.php?id=6
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•游戏赛事",「虎牙」英雄联盟 𝟙
+http://live.iill.top/huya.php?id=660000
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•游戏赛事",「虎牙」英雄联盟 𝟚
+http://live.iill.top/huya.php?id=660001
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」英雄联盟 𝟙
+http://live.iill.top/douyu.php?id=288016
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/斗鱼.png" group-title="•游戏赛事",「斗鱼」英雄联盟 𝟚
+http://live.iill.top/douyu.php?id=424559
